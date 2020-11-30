@@ -22,6 +22,5 @@ md = MathDojo()
 # run each of the methods a few more times and check the result!
 # y = md.subtract(4).add(4,4,4,4).result
 # print(y)
-
-z = md.add(1,1).subtract(3).add(-1).result
-print(z)
+# z = md.add(1,1).subtract(3).add(-1).result
+# print(z)
